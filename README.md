@@ -1,6 +1,15 @@
-## Getting Started
+## Enunciado do Exercício 4 - Lista de Extrutura Sequêncial
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+4 Faça um Programa que peça as 4 notas bimestrais e mostre a média.
+
+## Sobre o Projeto
+
+Este projeto é o `quarto` exercício proposto pelo professor **Montanha**!
+
+Foi passado como base a lista de _Estrutura Sequencial_ de Python.
+
+Link da lista completa: [Lista de Estrutura Sequencial](https://wiki.python.org.br/EstruturaSequencial)
+
 
 ## Folder Structure
 
